@@ -1,4 +1,4 @@
--- 更新小智参数中的默认采样率从 16000 改为 24000
+-- 更新richard参数中的默认采样率从 16000 改为 24000
 UPDATE `sys_params`
 SET `param_value` = '{
   "type": "hello",

@@ -7,14 +7,14 @@ import java.util.Map;
 
 
 /**
- * 小智MCP JSON-RPC 请求json
+ * richardMCP JSON-RPC 请求json
  */
 public class RichardMcpJsonRpcJson {
-    //小智初始化mcp请求json
+    //richard初始化mcp请求json
     private static final String INITIALIZE_JSON;
-    //小智mcp初始化成功，返回通知请求json
+    //richardmcp初始化成功，返回通知请求json
     private static final String NOTIFICATIONS_INITIALIZED_JSON;
-    //小智mcp获取mcp工具集合请求json
+    //richardmcp获取mcp工具集合请求json
     private static final String TOOLS_LIST_REQUEST;
     // 延迟加载
     static {
